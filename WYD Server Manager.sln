@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WYD Server Manager", "WYD Server Manager\WYD Server Manager.csproj", "{94BE6ED7-CEBC-4802-8DB3-C7327CFF3589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94BE6ED7-CEBC-4802-8DB3-C7327CFF3589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BE6ED7-CEBC-4802-8DB3-C7327CFF3589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BE6ED7-CEBC-4802-8DB3-C7327CFF3589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BE6ED7-CEBC-4802-8DB3-C7327CFF3589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

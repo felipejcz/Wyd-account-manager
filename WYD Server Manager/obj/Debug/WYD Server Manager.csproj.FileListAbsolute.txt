@@ -1,0 +1,12 @@
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\bin\Debug\WYD Server Manager.exe.config
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\bin\Debug\WYD Server Manager.exe
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\bin\Debug\WYD Server Manager.pdb
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\bin\Debug\Newtonsoft.Json.dll
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\bin\Debug\Newtonsoft.Json.xml
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\obj\Debug\WYD Server Manager.csprojResolveAssemblyReference.cache
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\obj\Debug\WYD_Server_Manager.Properties.Resources.resources
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\obj\Debug\WYD Server Manager.csproj.GenerateResource.Cache
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\obj\Debug\WYD Server Manager.exe
+c:\users\claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\obj\Debug\WYD Server Manager.pdb
+C:\Users\Claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\obj\Debug\WYD_Server_Manager.Principal.resources
+C:\Users\Claudio\documents\visual studio 2015\Projects\WYD Server Manager\WYD Server Manager\obj\Debug\WYD_Server_Manager.CriarConta.resources
